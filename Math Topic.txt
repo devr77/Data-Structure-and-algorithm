@@ -1,0 +1,29 @@
+Some of the commonly used math topics in competitive programming are:
+
+Modular Exponentiation
+Modular multiplicative inverse
+Primality Test
+Euclidean algorithms (Basic and Extended)
+Sieve of Eratosthenes
+Segmented Sieve
+Euler's Totient Function
+Chinese Remainder Theorem | Set 1 (Introduction)
+Lucas Theorem to Compute nCr % p
+Wilson's theorem
+Pythagorean triple
+Convex Hull | Jarvis's Algorithm or Wrapping
+Convex Hull | Graham Scan
+How to check if two given line segments intersect?
+Matrix Exponentiation
+Bentley–Ottmann algorithm
+Closest Pair of Points
+How to check if a given point lies inside or outside a polygon?
+Grundy Numbers
+Sprague - Grundy Theorem
+Game of Nim
+Normal Distribution
+Binomial Distribution
+Poisson Distribution
+Fibonacci Sequence
+Greatest common divisor
+Möbius function

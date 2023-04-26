@@ -1,0 +1,21 @@
+
+003 Link-to-Codeblocks-IDE-with-MinGW-compiler
+http://www.codeblocks.org/downloads/26
+
+003 Prime-Number-Test-Source-Code
+https://github.com/chiriacandrei25/The-Bible-of-Algorithms/blob/master/Prime%20Number%20Test.cpp
+
+005 Prime-Factorization-Source-Code
+https://github.com/chiriacandrei25/The-Bible-of-Algorithms/blob/master/Prime%20Numbers%20Factorization.cpp
+
+007 Sieve-of-Eratosthenes-Source-Code
+https://github.com/chiriacandrei25/The-Bible-of-Algorithms/blob/master/Sieve%20of%20Eratosthenes.cpp
+
+009 Fast-Modular-Exponentiation-Recursive-Source-Code
+https://github.com/chiriacandrei25/The-Bible-of-Algorithms/blob/master/Fast%20Modular%20Expo%20-%20Recursive.cpp
+
+010 Fast-Modular-Exponentiation-Iterative-Source-Code
+https://github.com/chiriacandrei25/The-Bible-of-Algorithms/blob/master/Fast%20Modular%20Expo%20-%20Iterative.cpp
+
+012 Pigeonhole-Principle-Source-Code
+https://github.com/chiriacandrei25/The-Bible-of-Algorithms/blob/master/Pigeonhole%20Principle.cpp
