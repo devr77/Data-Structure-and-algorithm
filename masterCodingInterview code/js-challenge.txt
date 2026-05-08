@@ -1,0 +1,86 @@
+Optimizing tool selection...
+
+Read [](file:///d%3A/documents/Data-Structure-and-algorithm/Challenge)
+
+Here are all the filenames in the Challenge folder:
+
+- 100. Convert Date Object to Timestamp.html
+- 101. Determine if a Year is a Leap Year.html
+- 102. Synchronous Code Execution in JavaScript.html
+- 103. Convert Years to Days in JavaScript.html
+- 23. JavaScript Program to Find Armstrong Numbers Within a Given Range.html
+- 24. Build a Simple Calculator Using JavaScript Functions.html
+- 25. Find the Sum of the First N Natural Numbers.html
+- 26. Check If Two Numbers Share the Same Last Digit.html
+- 27. Find the Highest Common Factor (HCF) or Greatest Common Divisor (GCD) of Two Numbers.html
+- 28. Find the Least Common Multiple (LCM) of Two Numbers.html
+- 29. Find All Factors of a Number in JavaScript.html
+- 30. Guess a Random Number in JavaScript.html
+- 31. Recursive Fibonacci Sequence Display in JavaScript.html
+- 32. Recursive Factorial Function in JavaScript.html
+- 33. Convert Decimal to Binary in JavaScript.html
+- 34. JavaScript Program to Get ASCII Value of a Character.html
+- 35. Check if a String is a Palindrome.html
+- 36. Sort Words Alphabetically.html
+- 37. JavaScript Function to Substitute String Characters.html
+- 38. Reverse a String in JavaScript.html
+- 39. Count Character Occurrences in a String.html
+- 40. Convert the First Letter of Each Word to Uppercase in a String.html
+- 41. JavaScript Program to Delete an Object Property.html
+- 42. Check for Key Presence in JavaScript Object.html
+- 43. Clone a JavaScript Object.html
+- 44. Iterate Through Object Properties in JavaScript.html
+- 45. Merge Properties of Two Objects in JavaScript.html
+- 46. Count the Number of Properties in an Object.html
+- 47. Add a KeyValue Pair to a JavaScript Object.html
+- 48. Replace All Occurrences of a Substring in a String.html
+- 49. Create Multiline Strings in JavaScript.html
+- 50. Convert Numbers to Currency Format in JavaScript.html
+- 51. Random String Generator.html
+- 52. Check if a String Starts with a Substring.html
+- 53. Trim a String in JavaScript.html
+- 54. Convert JavaScript Object to String.html
+- 55. Check if a String Contains a Substring in JavaScript.html
+- 56. String Comparison in JavaScript.html
+- 57. Convert String to Base64 in JavaScript.html
+- 58. Replace All Instances of a Character in a String.html
+- 59. Replace Line Breaks with Spaces in a String.html
+- 60. Display Current Date and Time Using JavaScript.html
+- 61. JavaScript Program to Format a Date.html
+- 62. Display the Current Date using JavaScript Functions.html
+- 63. Create a Countdown Timer in JavaScript.html
+- 64. Remove a Specific Item from an Array in JavaScript.html
+- 65. Check if an Array Contains a Specific Value.html
+- 66. Insert Item into an Array at a Specific Position.html
+- 67. Append an Object to an Array in JavaScript.html
+- 68. Check if a Given Object is an Array.html
+- 69. Clear Array Contents in JavaScript.html
+- 70. Add Element to Beginning of Array.html
+- 71. Remove Duplicates from an Array.html
+- 72. Merge Two Arrays and Remove Duplicates in JavaScript.html
+- 73. Sort Array of Objects by Property in JavaScript.html
+- 74. Create a Two-Dimensional Array in JavaScript.html
+- 75. Extract Specific Property Values from Objects as an Array.html
+- 76. Compare Two Arrays for Equality.html
+- 77. Get a Random Item from an Array in JavaScript.html
+- 78. Find the Intersection of Two Arrays in JavaScript.html
+- 79. Chunk an Array into Smaller Sub-arrays.html
+- 80. Including One JavaScript File Inside Another JavaScript File.html
+- 81. Get the File Extension from a File Name.html
+- 82. Check if a Variable is undefined or null in JavaScript.html
+- 83. JavaScript Program to Set a Default Value for Function Parameters.html
+- 84. JavaScript Program to Demonstrate Set Operations.html
+- 85. Generate a Random Number Within a Given Range.html
+- 86. Retrieve the Current Webpage URL Using JavaScript.html
+- 87. JavaScript Program to Validate an Email Address.html
+- 88. Check if Variable is a Function in JavaScript.html
+- 89. Working with Constants in JavaScript.html
+- 90. Pass Arguments to setTimeout() in JavaScript.html
+- 91. Generate a Sequence of Numbers and Characters in JavaScript.html
+- 92. JavaScript Program to Simulate Function Overloading.html
+- 96. Pass a Function as an Argument in JavaScript.html
+- 97. Get the Width and Height of an Image in JavaScript.html
+- 98. Remove All Whitespace from a String.html
+- 99. Console Log Writer in JavaScript.html
+
+Let me know if you want this as a text file or need further processing!

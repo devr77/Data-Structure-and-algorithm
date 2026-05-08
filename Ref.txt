@@ -1,0 +1,15 @@
+https://stackoverflow.com/questions/5580761/why-use-double-indirection-or-why-use-pointers-to-pointers
+https://codersdaily.in/courses/hackerrank-c-solution/dynamic-array-in-c-solution
+https://www.geeksforgeeks.org/modulo-operator-in-c-cpp-with-examples/
+https://medium.com/@riddhipawar/dynamic-array-problem-in-hackerrank-5d438d4c15ef
+/www.geeksforgeeks.org/bitwise-operators-in-java/
+https://programs.programmingoneonone.com/2021/05/hackerrank-dynamic-array-solution.html
+
+
+
+
+
+// Competitive programming
+
+https://github.com/apaarkamal/Coding-Minutes-Competitive-Programming
+https://github.com/coding-minutes/graph-algorithms-for-competitive-coding
