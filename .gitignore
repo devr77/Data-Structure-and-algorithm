@@ -309,4 +309,8 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/java,c,c++,eclipse,node
 
+# Ignore nested repositories copied into the workspace
+misc/reddit/
+misc/x-algorithm/
+
 Ebook/
